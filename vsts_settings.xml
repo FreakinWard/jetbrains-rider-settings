@@ -13,6 +13,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://comceptsolutions@dev.azure.com/comceptsolutions/Comcept%20Software/_git/Comcept.Legacy" />
+          <option name="serverUri" value="https://dev.azure.com/comceptsolutions" />
+          <option name="userId" value="d01e7c11-3026-63ab-b0fa-65ff413dc0ae" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d17ccf0e-6e68-4c43-8015-7d454657d992&quot;,&quot;name&quot;:&quot;comceptsolutions&quot;,&quot;url&quot;:&quot;https://dev.azure.com/comceptsolutions/_apis/projectCollections/d17ccf0e-6e68-4c43-8015-7d454657d992&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;535f2551-393d-4d1b-9aa6-bdbcfbb95273&quot;,&quot;name&quot;:&quot;Comcept Software&quot;,&quot;revision&quot;:41,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/comceptsolutions/_apis/projects/535f2551-393d-4d1b-9aa6-bdbcfbb95273&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;964a657e-0d96-4436-b314-6fe5152d0f35&quot;,&quot;name&quot;:&quot;Comcept.Legacy&quot;,&quot;remoteUrl&quot;:&quot;https://comceptsolutions@dev.azure.com/comceptsolutions/Comcept%20Software/_git/Comcept.Legacy&quot;,&quot;url&quot;:&quot;https://dev.azure.com/comceptsolutions/_apis/git/repositories/964a657e-0d96-4436-b314-6fe5152d0f35&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;535f2551-393d-4d1b-9aa6-bdbcfbb95273&quot;,&quot;name&quot;:&quot;Comcept Software&quot;,&quot;revision&quot;:41,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/comceptsolutions/_apis/projects/535f2551-393d-4d1b-9aa6-bdbcfbb95273&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://comceptsolutions@dev.azure.com/comceptsolutions/Comcept.Legacy.UI/_git/Comcept.Authentication" />
           <option name="serverUri" value="https://dev.azure.com/comceptsolutions" />
           <option name="userId" value="d01e7c11-3026-63ab-b0fa-65ff413dc0ae" />
@@ -34,7 +43,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//comceptsolutions@dev.azure.com/comceptsolutions/comcept software/_git/comcept.authentication" />
+          <option name="value" value="//comceptsolutions@dev.azure.com/comceptsolutions/comcept software/_git/comcept.legacy" />
         </PropertyState>
       </array>
     </option>
