@@ -4,18 +4,6 @@
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
-        <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="/Users" />
-              <option name="virtualMachinePath" value="/Users" />
-            </DockerPathMappingImpl>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="$USER_HOME$/Development" />
-              <option name="virtualMachinePath" value="Development" />
-            </DockerPathMappingImpl>
-          </list>
-        </option>
       </configuration>
     </remote-server>
   </component>
