@@ -22,10 +22,9 @@
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
