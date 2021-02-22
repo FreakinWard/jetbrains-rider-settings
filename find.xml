@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MBA.Data.Api'" />
-    <option name="defaultScopeName" value="Project 'MBA.Data.Api'" />
-    <option name="SEARCH_SCOPE" value="Project 'MBA.Data.Api'" />
+    <option name="customScope" value="Project 'Comcept.Endeavor.Api'" />
+    <option name="defaultScopeName" value="Project 'Comcept.Endeavor.Api'" />
+    <option name="SEARCH_SCOPE" value="Project 'Comcept.Endeavor.Api'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
