@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="reopenLastProject" value="false" />
   </component>
   <component name="Registry">
@@ -23,12 +24,12 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
