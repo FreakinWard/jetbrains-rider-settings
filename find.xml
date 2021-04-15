@@ -1,30 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
-    <mask>*.ng</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.sht</mask>
     <mask>*.html</mask>
-    <mask>*.ats</mask>
-    <mask>*.ts</mask>
-    <mask>*.cjs</mask>
-    <mask>*actions.test.js</mask>
-    <mask>*.actionTypes.js</mask>
-    <mask>*.selector.js</mask>
-    <mask>*.reducer.js</mask>
-    <mask>*.actions.js</mask>
-    <mask>*.action.js</mask>
-    <mask>*.action.test.js</mask>
-    <mask>*.spec.js</mask>
-    <mask>*.js</mask>
-    <mask>*.test.js</mask>
+    <mask>*.xml</mask>
+    <mask>*.cs</mask>
+    <mask>*service.cs</mask>
   </component>
 </application>
