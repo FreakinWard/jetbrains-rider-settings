@@ -7,6 +7,21 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="AzureDotNetWebAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Web App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Function App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionsHost">
+                    <value>
+                      <FeaturePluginData displayName="Azure Functions host" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
