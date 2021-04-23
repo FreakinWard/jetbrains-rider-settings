@@ -3,10 +3,11 @@
     <option name="customScope" value="Project 'CarMax.Auctions.Home.Micro.Site'" />
     <option name="defaultScopeName" value="Project 'CarMax.Auctions.Home.Micro.Site'" />
     <option name="SEARCH_SCOPE" value="Project 'CarMax.Auctions.Home.Micro.Site'" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*service.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
