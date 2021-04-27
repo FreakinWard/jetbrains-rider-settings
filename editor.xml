@@ -16,6 +16,7 @@
     <option name="FONT_FAMILY" value="Dank Mono" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
