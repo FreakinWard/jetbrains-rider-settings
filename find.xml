@@ -6,7 +6,9 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*service.cs</mask>
+    <mask>*.cs</mask>
+    <mask>*.js</mask>
+    <mask>!.css</mask>
   </component>
 </application>

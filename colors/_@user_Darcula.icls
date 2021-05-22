@@ -1,46 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-19T15:13:58</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2021-03-08T14:42:11</property>
+    <property name="created">2021-05-03T11:49:10</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-05-03T12:24:45</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
-    <option name="DEFAULT_KEYWORD">
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_1">
-      <value>
-        <option name="BACKGROUND" value="3a3a2c" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_2">
-      <value>
-        <option name="BACKGROUND" value="313a31" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_3">
-      <value>
-        <option name="BACKGROUND" value="3a313a" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_4">
-      <value>
-        <option name="BACKGROUND" value="2e3939" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_ERROR">
-      <value>
-        <option name="BACKGROUND" value="452828" />
+        <option name="BACKGROUND" value="7f00" />
       </value>
     </option>
   </attributes>
