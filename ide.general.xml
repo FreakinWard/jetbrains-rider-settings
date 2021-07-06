@@ -41,6 +41,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.background.tasks" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
