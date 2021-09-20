@@ -1,5 +1,3 @@
 <templateSet group="xunit">
-  <template name="xf" value="[Fact]&#10;public async Task ItReturnsStuff()&#10;{&#10;    // Arrange&#10;    &#10;    // Act&#10;    &#10;    // Assert&#10;}" description="Creates a new xunit Fact method" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="xf" value="[Fact]&#10;public async Task ItReturnsStuff()&#10;{&#10;    // Arrange&#10;    &#10;    // Act&#10;    &#10;    // Assert&#10;}" description="Creates a new xunit Fact method" toReformat="false" toShortenFQNames="true" />
 </templateSet>
