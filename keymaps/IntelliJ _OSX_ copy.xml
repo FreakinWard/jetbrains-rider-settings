@@ -18,7 +18,4 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
 </keymap>
