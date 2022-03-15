@@ -222,11 +222,6 @@
             </FeaturePluginsList>
           </value>
         </entry>
-        <entry key="com.intellij.facetType">
-          <value>
-            <FeaturePluginsList />
-          </value>
-        </entry>
       </map>
     </option>
   </component>
