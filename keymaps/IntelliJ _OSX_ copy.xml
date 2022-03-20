@@ -1,4 +1,5 @@
 <keymap version="1" name="IntelliJ (OSX) copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
@@ -11,7 +12,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
