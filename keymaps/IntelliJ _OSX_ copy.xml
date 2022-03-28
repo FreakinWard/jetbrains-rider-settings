@@ -1,17 +1,23 @@
 <keymap version="1" name="IntelliJ (OSX) copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
