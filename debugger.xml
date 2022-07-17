@@ -7,11 +7,8 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="dontShowWritePermissionDialog" value="true" />
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
         </configuration>
       </debugger>
       <debugger id="javascript">
