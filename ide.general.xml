@@ -32,6 +32,6 @@
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
