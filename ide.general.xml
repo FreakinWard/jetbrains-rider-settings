@@ -26,6 +26,5 @@
     <entry key="ide.background.tasks" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
